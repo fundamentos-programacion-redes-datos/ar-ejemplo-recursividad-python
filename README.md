@@ -1,1 +1,3 @@
 # ar-ejemplo-recursividad-python
+
+* El ejercicio tiene como objetivo desarrollar una función recursiva en Python que permita invertir una cadena de texto sin utilizar estructuras iterativas como bucles for o while. Para ello, el programa debe tener una función que reciba una cadena y devolver su versión invertida, utilizando llamadas recursivas para descomponer el problema en subproblemas más pequeños.  La solución debe hacer uso de estructuras de control adecuadas, como el caso base para detener la recursión y la concatenación progresiva de caracteres para formar la cadena invertida. Finalmente, el programa debe mostrar la salida en un formato claro y estructurado, permitiendo al usuario visualizar tanto la cadena original como su versión invertida. 
